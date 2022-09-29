@@ -1,2 +1,3 @@
-# F-rst-Repo
+# First-Repo
+This is my first repo that include python codes...
 Python first repo
